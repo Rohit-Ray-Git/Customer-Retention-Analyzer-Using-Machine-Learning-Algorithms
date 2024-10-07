@@ -55,7 +55,11 @@ The models were evaluated based on accuracy, with the following results:
 4. **AdaBoost Classifier**: **Accuracy**: 0.82 
 5. **Gradient Boosting Classifier**: **Accuracy**: 0.82 
 6. **XGBoost Classifier**: **Accuracy**: 0.84 🎉
-7. **Final Gradient Boosting Classifier Model**: **Accuracy**: 0.83 
+7. **Final Gradient Boosting Classifier Model**: **Accuracy**: 0.83
+
+## Streamlit App 🈸
+To make my findings accessible, I've developed a user-friendly Streamlit app where users can input customer details and get instant predictions on churn likelihood. 
+Check it out here: **https://customer-retention-analyzer-using-machine-learning-algorithms.streamlit.app/**
 
 ## Conclusion 🏆
 The **XGBoost Classifier** outperformed other models with an impressive accuracy of **84%**, effectively identifying customers at risk of churning. This project not only enhanced my understanding of customer behavior but also provided valuable insights into various machine learning methodologies and their applications in business contexts. 📊🔍
