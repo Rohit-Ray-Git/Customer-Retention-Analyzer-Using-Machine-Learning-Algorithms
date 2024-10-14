@@ -1,4 +1,4 @@
-# Customer Churn Prediction Project 🚀📊
+# Customer Retention Analyzer Project 🚀📊
 
 ## Overview
 This project focuses on predicting customer churn using machine learning techniques. Understanding customer churn is essential for businesses aiming to improve retention rates and enhance customer satisfaction. 🤝
